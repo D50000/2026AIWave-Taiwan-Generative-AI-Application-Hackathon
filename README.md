@@ -8,3 +8,8 @@ Built with AWS Generative AI services and IoT architecture.
 Provides emotional companionship, health reminders, fraud prevention and family connection.
 Supports mobile devices, smart speakers and edge AI platforms based on domestic chips.
 Focused on inclusive technology and human-centered design.
+
+
+ps:
+Smartphone + Robot Base （IOT)
+- https://looirobot.com/products/looi-robot
