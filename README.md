@@ -1,5 +1,17 @@
 # 2026AIWave: Taiwan Generative AI Application Hackathon
 
+![Hackathon](https://img.shields.io/badge/Hackathon-AIWave2026-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon-Bedrock-232F3E?logo=amazonaws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
+![LLM](https://img.shields.io/badge/LLM-Agent-success)
+![IoT](https://img.shields.io/badge/IoT-Smart%20Device-00A3E0)
+![Edge AI](https://img.shields.io/badge/Edge-AI-green)
+![Human-Centered AI](https://img.shields.io/badge/Human--Centered-AI-blueviolet)
+![Aging Society](https://img.shields.io/badge/Aging-Society-orange)
+![Cross Platform](https://img.shields.io/badge/Cross-Platform-lightgrey)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 The 3rd **AI Wave: Taiwan Generative AI Application Hackathon** brings together government, academia, and industry to tackle Taiwan's most pressing social challenges through Generative AI. This year's themes focus on real-world impact, including aging society, inclusive technology, smart healthcare, financial security, talent development, and resilient communities.
 
 ---
