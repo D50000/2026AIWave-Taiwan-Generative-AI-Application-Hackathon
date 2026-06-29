@@ -6,6 +6,7 @@ The 3rd **AI Wave: Taiwan Generative AI Application Hackathon** brings together 
 
 # Human First | Guardian AI
 
+![](https://github.com/D50000/2026AIWave-Taiwan-Generative-AI-Application-Hackathon/blob/main/assets/Guardian%20AI.png)  
 **AI Digital Family for Aging Society**
 
 Guardian AI is a human-centered AI companion platform designed for Taiwan's rapidly aging society. Rather than building another AI assistant, Guardian AI acts as a trusted **AI Digital Family** that provides long-term companionship, safety, and family connection for senior citizens.
@@ -20,11 +21,11 @@ Our vision is simple:
 
 Taiwan officially became a **super-aged society** in 2025. As the population continues to age, many seniors face challenges including:
 
-* ❤️ Loneliness and emotional isolation
-* 🩺 Physical and mental health management
-* 🛡️ Fraud and scam prevention
-* 📱 Digital divide
-* 👨‍👩‍👧 Reduced family interaction
+- ❤️ Loneliness and emotional isolation
+- 🩺 Physical and mental health management
+- 🛡️ Fraud and scam prevention
+- 📱 Digital divide
+- 👨‍👩‍👧 Reduced family interaction
 
 Existing technologies solve individual problems, but few provide continuous companionship with a human-centered design.
 
@@ -34,12 +35,12 @@ Guardian AI bridges this gap.
 
 ## Core Features
 
-* ❤️ Emotional companionship with Generative AI
-* 🩺 Health reminders and daily wellness support
-* 🛡️ Scam detection and safety protection
-* 👨‍👩‍👧 Family connection and emergency notifications
-* 🧠 Personalized long-term memory
-* 🎙️ Natural voice interaction
+- ❤️ Emotional companionship with Generative AI
+- 🩺 Health reminders and daily wellness support
+- 🛡️ Scam detection and safety protection
+- 👨‍👩‍👧 Family connection and emergency notifications
+- 🧠 Personalized long-term memory
+- 🎙️ Natural voice interaction
 
 ---
 
@@ -49,10 +50,10 @@ Guardian AI is designed as a cross-platform AI companion ecosystem.
 
 Supported platforms include:
 
-* 📱 Mobile Application
-* 🔊 Smart Speaker
-* 🤖 AI Companion Robot (IoT)
-* ⚙️ Edge AI devices powered by domestic semiconductor platforms
+- 📱 Mobile Application
+- 🔊 Smart Speaker
+- 🤖 AI Companion Robot (IoT)
+- ⚙️ Edge AI devices powered by domestic semiconductor platforms
 
 Inspired by smartphone-powered companion robot concepts, Guardian AI can evolve from a mobile application into an affordable AI companion device for everyday home use.
 
@@ -60,13 +61,13 @@ Inspired by smartphone-powered companion robot concepts, Guardian AI can evolve 
 
 ## Technology Stack
 
-* AWS Generative AI Services
-* AWS Cloud Infrastructure
-* Generative AI (LLM)
-* IoT Companion Devices
-* Edge AI Computing
-* Voice Interaction
-* Memory-based AI Agent
+- AWS Generative AI Services
+- AWS Cloud Infrastructure
+- Generative AI (LLM)
+- IoT Companion Devices
+- Edge AI Computing
+- Voice Interaction
+- Memory-based AI Agent
 
 ---
 
