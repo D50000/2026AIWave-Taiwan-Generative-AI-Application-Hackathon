@@ -31,6 +31,52 @@ Existing technologies solve individual problems, but few provide continuous comp
 
 Guardian AI bridges this gap.
 
+```mermaid
+flowchart TD
+    User[使用者<br/>User]
+
+    Device[使用者端載體<br/>手機 / 智慧音箱 / IoT 陪伴裝置<br/>國產晶片 Edge AI Platform]
+
+    AWS[AWS Cloud Services]
+
+    Bedrock[AWS Generative AI<br/>LLM / Agent / Knowledge Base]
+
+    Guardian[Guardian AI<br/>AI Digital Family Core]
+
+    Family[家人 / 照護者<br/>Family & Caregiver]
+
+    Notify[家庭連結與通知<br/>Family Linked]
+
+    Memory[個人記憶<br/>Personal Memory]
+
+    Emotion[情緒理解<br/>Emotion Understanding]
+
+    Safety[安全守護<br/>Fraud & Risk Detection]
+
+    Health[健康提醒<br/>Health Reminder]
+
+    User --> Device
+    Device --> Guardian
+    Guardian --> AWS
+    AWS --> Bedrock
+    Bedrock --> Guardian
+
+    Guardian --> Memory
+    Guardian --> Emotion
+    Guardian --> Safety
+    Guardian --> Health
+
+    Guardian --> Notify
+    Notify --> Family
+
+    Family --> Notify
+    Notify --> Guardian
+```
+
+---
+
+## Guardian AI System Architecture
+
 ---
 
 ## Core Features
